@@ -500,4 +500,7 @@ footer span {
     footer ul{
         font-size: 11px;
     }
+    .mobile-info h3, .mobile-info p{
+        width: 60%;
+    }
 }
